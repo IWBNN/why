@@ -1,5 +1,5 @@
 public class Realrlywlkjgklsdg {
-    ㅡ
-
-    ㄹㄴㅇㄹㄴㅇ힌ㅇㅎㄷ
+    public static void main(String[] args) {
+        //whyme
+    }
 }
